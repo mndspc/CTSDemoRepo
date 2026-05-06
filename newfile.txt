@@ -1,7 +1,4 @@
 This is modified in origin
-<<<<<<< HEAD
 
 This is updated in main branch
-=======
 This is updated in feature-branch
->>>>>>> feature-branch
